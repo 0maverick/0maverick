@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there!
 
-<!--
-**0maverick/0maverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering** • **UI/UX Interactions** • **Creative Web Development**
 
-Here are some ideas to get you started:
+We craft fast, accessible, and visually engaging web experiences.  
+Our work blends strong engineering fundamentals with creative interface design—building products that feel smooth, modern, and delightful to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Specialties
+
+### Frontend Engineering
+- ⚛️ React.js  
+- ▲ Next.js  
+- ⭐ Astro  
+- 🎨 Tailwind CSS  
+
+### Backend Engineering
+- 🗄️ Prisma ORM  
+- 🐍 Django  
+- 🐳 Docker  
+- 🔌 REST API & minimal backend services  
+- 🧱 Database modeling & data layer architecture  
+
+### Interactions & Animation
+- ✨ GSAP  
+- 🎥 Framer Motion / Motion  
+- 🧩 Micro-interactions, scroll experiences, dynamic UI systems  
+- 🌐 Smooth page transitions & high-performance UI animations  
+
+---
+
+## 🚀 What We Do
+- Build high-quality frontend architectures with modern frameworks  
+- Create pixel-perfect, responsive interfaces from design to production  
+- Craft immersive animations and interactive experiences  
+- Optimize apps for performance, accessibility, and SEO  
+- Elaborate wireframe and designs to bring ideas to life with refined motion  
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re looking for a creative studio who can merge engineering precision with beautiful, meaningful interactions, feel free to reach out!
+
+📫 **maverick.system@tuta.com**  
