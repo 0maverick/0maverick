@@ -9,13 +9,13 @@ Our work blends strong engineering fundamentals with creative interface design�
 
 ## 🔧 Tech Specialties
 
-### Frontend Engineering
+### Frontend
 - ⚛️ React.js  
 - ▲ Next.js  
 - ⭐ Astro  
 - 🎨 Tailwind CSS  
 
-### Backend Engineering
+### Backend
 - 🗄️ Prisma ORM  
 - 🐍 Django  
 - 🐳 Docker  
