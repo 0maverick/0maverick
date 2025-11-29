@@ -10,9 +10,11 @@ Our work blends strong engineering fundamentals with creative interface design�
 ## 🔧 Tech Specialties
 
 ### Frontend
-- ⚛️ React.js  
-- ▲ Next.js  
+- 🟦 TypeScript
+- ⚛️ ReactJS  
+- ▲ NextJS  
 - ⭐ Astro  
+- ⚡ ViteJS  
 - 🎨 Tailwind CSS  
 
 ### Backend
