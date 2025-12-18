@@ -12,6 +12,7 @@ Our work blends strong engineering fundamentals with creative interface design�
 ### Frontend
 - 🟦 TypeScript
 - ⚛️ ReactJS  
+- 🧩 NuxtJS  
 - ▲ NextJS  
 - ⭐ Astro  
 - ⚡ ViteJS  
@@ -26,7 +27,7 @@ Our work blends strong engineering fundamentals with creative interface design�
 
 ### Interactions & Animation
 - ✨ GSAP  
-- 🎥 Framer Motion / Motion  
+- 🎥 Motion  
 - 🧩 Micro-interactions, scroll experiences, dynamic UI systems  
 - 🌐 Smooth page transitions & high-performance UI animations  
 
