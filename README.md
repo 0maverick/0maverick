@@ -12,7 +12,6 @@ Our work blends strong engineering fundamentals with creative interface design�
 ### Frontend
 - 🟦 TypeScript
 - ⚛️ ReactJS  
-- 🧩 NuxtJS  
 - ▲ NextJS  
 - ⭐ Astro  
 - ⚡ ViteJS  
