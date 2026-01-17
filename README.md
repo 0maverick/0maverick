@@ -26,6 +26,7 @@ Our work blends strong engineering fundamentals with creative interface design�
 
 ### Interactions & Animation
 - ✨ GSAP  
+- 📃 BarbaJS  
 - 🎥 Motion  
 - 🧩 Micro-interactions, scroll experiences, dynamic UI systems  
 - 🌐 Smooth page transitions & high-performance UI animations  
