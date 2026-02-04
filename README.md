@@ -10,19 +10,18 @@ Our work blends strong engineering fundamentals with creative interface design�
 ## 🔧 Tech Specialties
 
 ### Frontend
+- 🏷️ Semantic HTML
+- 🎨 CSS
+- 🟨 JavaScript
+- 🚀 Astro
 - 🟦 TypeScript
 - ⚛️ ReactJS  
 - ▲ NextJS  
-- ⭐ Astro  
 - ⚡ ViteJS  
-- 🎨 Tailwind CSS  
+- 💻 Responsive design
+- 🔍 SEO
 
-### Backend
-- 🗄️ Prisma ORM  
-- 🐍 Django  
-- 🐳 Docker  
-- 🔌 REST API & minimal backend services  
-- 🧱 Database modeling & data layer architecture  
+### Design
 
 ### Interactions & Animation
 - ✨ GSAP  
@@ -30,6 +29,13 @@ Our work blends strong engineering fundamentals with creative interface design�
 - 🎥 Motion  
 - 🧩 Micro-interactions, scroll experiences, dynamic UI systems  
 - 🌐 Smooth page transitions & high-performance UI animations  
+
+### Backend
+- 🗄️ Prisma ORM  
+- 🐍 Django  
+- 🐳 Docker  
+- 🔌 REST API & minimal backend services  
+- 🧱 Database modeling & data layer architecture  
 
 ---
 
