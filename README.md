@@ -1,16 +1,16 @@
-# 👋 Hey there!
+# 👋 Bonjour !
 
-**Software Engineering** • **UI/UX Interactions** • **Creative Web Development**
+**Ingénierie logicielle** • **Interactions UI/UX** • **Développement Web Créatif**
 
-We craft fast, accessible, and visually engaging web experiences.  
-Our work blends strong engineering fundamentals with creative interface design—building products that feel smooth, modern, and delightful to use.
+Nous concevons des expériences web rapides, accessibles et visuellement engageantes.  
+Notre travail allie de solides fondamentaux en ingénierie à un design d’interface créatif — pour construire des produits fluides, modernes et agréables à utiliser.
 
 ---
 
-## 🔧 Tech Specialties
+## 🔧 Spécialités techniques
 
 ### Frontend
-- 🏷️ Semantic HTML
+- 🏷️ HTML sémantique
 - 🎨 CSS
 - 🟨 JavaScript
 - 🚀 Astro
@@ -18,7 +18,7 @@ Our work blends strong engineering fundamentals with creative interface design�
 - ⚛️ ReactJS  
 - ▲ NextJS  
 - ⚡ ViteJS  
-- 💻 Responsive design
+- 💻 Design responsive
 - 🔍 SEO
 
 ### Design
@@ -27,29 +27,30 @@ Our work blends strong engineering fundamentals with creative interface design�
 - ✨ GSAP  
 - 📃 BarbaJS  
 - 🎥 Motion  
-- 🧩 Micro-interactions, scroll experiences, dynamic UI systems  
-- 🌐 Smooth page transitions & high-performance UI animations  
+- 🧩 Micro-interactions, expériences de scroll, systèmes d’UI dynamiques  
+- 🌐 Transitions de pages fluides & animations UI haute performance  
 
 ### Backend
 - 🗄️ Prisma ORM  
 - 🐍 Django  
 - 🐳 Docker  
-- 🔌 REST API & minimal backend services  
-- 🧱 Database modeling & data layer architecture  
+- 🔌 API REST & services backend minimalistes  
+- 🧱 Modélisation de bases de données & architecture de la couche data  
 
 ---
 
-## 🚀 What We Do
-- Build high-quality frontend architectures with modern frameworks  
-- Create pixel-perfect, responsive interfaces from design to production  
-- Craft immersive animations and interactive experiences  
-- Optimize apps for performance, accessibility, and SEO  
-- Elaborate wireframe and designs to bring ideas to life with refined motion  
+## 🚀 Ce que nous faisons
+- Construire des architectures frontend de haute qualité avec des frameworks modernes  
+- Créer des interfaces pixel-perfect et responsives, du design à la production  
+- Concevoir des animations immersives et des expériences interactives  
+- Optimiser les applications pour la performance, l’accessibilité et le SEO  
+- Développer des wireframes et des designs pour donner vie aux idées avec des animations soignées  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Restons en contact
 
-If you’re looking for a creative studio who can merge engineering precision with beautiful, meaningful interactions, feel free to reach out!
+Si vous recherchez un studio créatif capable d’allier précision technique et interactions belles et porteuses de sens, n’hésitez pas à nous contacter !
+
 
 📫 **maverick.system@tuta.com**  
