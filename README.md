@@ -28,14 +28,7 @@ Notre travail allie de solides fondamentaux en ingénierie à un design d’inte
 - 📃 BarbaJS  
 - 🎥 Motion  
 - 🧩 Micro-interactions, expériences de scroll, systèmes d’UI dynamiques  
-- 🌐 Transitions de pages fluides & animations UI haute performance  
-
-### Backend
-- 🗄️ Prisma ORM  
-- 🐍 Django  
-- 🐳 Docker  
-- 🔌 API REST & services backend minimalistes  
-- 🧱 Modélisation de bases de données & architecture de la couche data  
+- 🌐 Transitions de pages fluides & animations UI haute performance   
 
 ---
 
