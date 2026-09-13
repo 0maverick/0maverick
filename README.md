@@ -14,9 +14,7 @@ Notre travail allie de solides fondamentaux en ingénierie à un design d’inte
 - 🎨 CSS
 - 🟨 JavaScript
 - 🚀 Astro
-- 🟦 TypeScript
 - ⚛️ ReactJS  
-- ▲ NextJS  
 - ⚡ ViteJS  
 - 💻 Design responsive
 - 🔍 SEO
@@ -42,8 +40,5 @@ Notre travail allie de solides fondamentaux en ingénierie à un design d’inte
 ---
 
 ## 🤝 Restons en contact
-
-Si vous recherchez un studio créatif capable d’allier précision technique et interactions belles et porteuses de sens, n’hésitez pas à nous contacter !
-
 
 📫 **maverick.system@tuta.com**  
